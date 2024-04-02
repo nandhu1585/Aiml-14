@@ -5,4 +5,5 @@
 [LAB-5](https://github.com/nandhu1585/Aiml-14/blob/main/LAB%20-%205.ipynb)
 [LAB-6](https://github.com/nandhu1585/Aiml-14/blob/main/LAB%20-%206.ipynb)
 [LAB-7](https://github.com/nandhu1585/Aiml-14/blob/main/AIMLLAB7%20(1).ipynb)
-[LAB-8](
+[LAB-8](https://github.com/nandhu1585/Aiml-14/blob/main/AIMLLAB-8.ipynb)
+[LAB-9](
